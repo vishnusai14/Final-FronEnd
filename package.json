@@ -9,10 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.2",
+    "@react-native-community/datetimepicker": "^6.3.2",
+    "axios": "^0.27.2",
+    "data-fns": "^0.1.8",
+    "date-fns": "^2.29.2",
     "expo": "~46.0.9",
+    "expo-app-loading": "~2.1.0",
+    "expo-font": "~10.2.0",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.4"
+    "react-native": "0.69.4",
+    "react-native-dropdown-picker": "^5.4.2",
+    "react-native-gesture-handler": "~2.5.0",
+    "react-native-maps": "0.31.1",
+    "react-native-reanimated": "~2.9.1",
+    "react-native-redash": "^18.0.0",
+    "react-native-swipe-gestures": "^1.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
